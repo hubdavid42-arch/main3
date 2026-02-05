@@ -3,10 +3,10 @@
 -- Konfigurasi Mounts
 ---------------------------------------------------------------------
 local FloatingMounts = {
-    ["MOUNT YAHAYUK"] = { 
-    v1 = "mount_yahayuk_normal.json", 
+    ["MOUNT YAHAYUK V3"] = { 
+    v1 = "mount_yahayuk_v3.json", 
     v2 = "mount_yahayuk_wasd.json",
-    v3 = "mount_yahayuk_v3.json" },
+    v3 = "" },
     
     
         ["MOUNT SIBUATAN"] = { 
@@ -158,3 +158,4 @@ return {
     FloatingMounts = FloatingMounts,
     CheckpointMounts = CheckpointMounts
 }
+
